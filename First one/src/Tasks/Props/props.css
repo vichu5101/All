@@ -1,0 +1,9 @@
+body{
+    background-color: skyblue;
+}
+.imgId{
+    filter: grayscale();
+}
+.imgId:hover{
+    filter: brightness();
+}
